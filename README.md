@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @azimali322
-- 🌱 I’m currently working at Wells Fargo as a Quantitative Analytics Associate with a M.S. in Data Science from University of Texas at Austin and M.S. in Chemistry from University of Minnesota - Twin Cities. 
+- 🌱 I’m currently working at Wells Fargo as a Quantitative Analytics Associate with a M.S. in Data Science from University of Texas at Austin and M.S. in Chemistry from University of Minnesota - Twin Cities.
+- Using LLM agents to enhance my past times, games, mods, and other individual fun activities. 
 - Worked significantly with many R visualization, sf package, and statistical analysis packages in Python and R. Check out my recent SARIMA modeling of Reddit parsed subreddit traffic activity and unusual/event detection based on subreddit time series analysis.
 - 👀 Also, interested in geoplotting and spatial statistics of Ghana medical centers locations.
 - Learning to make RL agents and AIs for trivial information strategy games like Yahtzee (and games like that).
